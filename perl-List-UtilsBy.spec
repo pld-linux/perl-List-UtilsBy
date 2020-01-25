@@ -4,7 +4,6 @@
 
 %define		pdir	List
 %define		pnam	UtilsBy
-%include	/usr/lib/rpm/macros.perl
 Summary:	List::UtilsBy - higher-order list utility functions
 Summary(pl.UTF-8):	List::UtilsBy - funkcje narzędziowe do list wyższego poziomu
 Name:		perl-List-UtilsBy
