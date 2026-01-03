@@ -7,14 +7,14 @@
 Summary:	List::UtilsBy - higher-order list utility functions
 Summary(pl.UTF-8):	List::UtilsBy - funkcje narzędziowe do list wyższego poziomu
 Name:		perl-List-UtilsBy
-Version:	0.11
+Version:	0.12
 Release:	1
 # same as perl 5
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
-Source0:	http://www.cpan.org/modules/by-module/List/%{pdir}-%{pnam}-%{version}.tar.gz
-# Source0-md5:	14469e1029060490bc3a563f0e59e5f1
-URL:		http://search.cpan.org/dist/List-UtilsBy/
+Source0:	https://www.cpan.org/modules/by-module/List/%{pdir}-%{pnam}-%{version}.tar.gz
+# Source0-md5:	54a8c7092bc02f29ea6c5ae215eea385
+URL:		https://search.cpan.org/dist/List-UtilsBy/
 BuildRequires:	perl-Module-Build >= 0.4004
 BuildRequires:	perl-devel >= 1:5.8.0
 BuildRequires:	rpm-perlprov >= 4.1-13
