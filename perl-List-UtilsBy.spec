@@ -8,7 +8,7 @@ Summary:	List::UtilsBy - higher-order list utility functions
 Summary(pl.UTF-8):	List::UtilsBy - funkcje narzędziowe do list wyższego poziomu
 Name:		perl-List-UtilsBy
 Version:	0.12
-Release:	1
+Release:	2
 # same as perl 5
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
